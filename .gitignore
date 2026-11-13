@@ -1,0 +1,17 @@
+# CLion
+.idea/
+
+# CMake build directories
+cmake-build-*/
+build/
+
+# Compiled files
+*.exe
+*.o
+*.obj
+*.dll
+*.a
+
+# Application data
+data/*
+!data/.gitkeep
